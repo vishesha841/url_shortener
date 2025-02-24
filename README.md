@@ -39,10 +39,3 @@ A simple and elegant URL shortener web application built with HTML, CSS, and Jav
 ### Prerequisites
 
 - A modern web browser (e.g., Chrome, Firefox, Edge).
-
-### Steps
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/url-shortener.git
-   cd url-shortener
