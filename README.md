@@ -21,8 +21,8 @@ A simple and elegant URL shortener web application built with HTML, CSS, and Jav
 ## Screenshots
 
 ### Home Page:
-![![Screenshot 2025-02-24 173134](https://github.com/user-attachments/assets/7bac0ed6-2652-4d38-a04b-f26756c0b98d)
-](https://raw.githubusercontent.com/your-username/url-shortener/main/home-page.png)
+![![![Screenshot 2025-02-24 173134](https://github.com/user-attachments/assets/6492e202-d519-4caf-a7cb-97a422460227)
+
 
 ### Result Page:
 ![![Screenshot 2025-02-24 173205](https://github.com/user-attachments/assets/a66c84c2-8626-4e10-8b14-5197db8b0a52)
