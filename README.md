@@ -18,11 +18,16 @@ A simple and elegant URL shortener web application built with HTML, CSS, and Jav
   - CSS: For styling and animations.
   - JavaScript: For functionality and interactivity.
  
-## **Screenshots**
-![![Screenshot 2025-02-24 173134](https://github.com/user-attachments/assets/ffa27652-b560-4ee6-a7c7-c1841ab65f8c)
-](https://github.com/user-attachments/assets/ef9acec6-4c01-4514-8cc3-eb1412935a9a)
-![![Screenshot 2025-02-24 173205](https://github.com/user-attachments/assets/56b4c948-e223-42aa-8fe9-88b9726e5f22)
-](https://github.com/user-attachments/assets/11d01c27-65b2-457c-b651-ced18f068f88)
+## Screenshots
+
+### Home Page:
+![![Screenshot 2025-02-24 173134](https://github.com/user-attachments/assets/7bac0ed6-2652-4d38-a04b-f26756c0b98d)
+](https://raw.githubusercontent.com/your-username/url-shortener/main/home-page.png)
+
+### Result Page:
+![![Screenshot 2025-02-24 173205](https://github.com/user-attachments/assets/a66c84c2-8626-4e10-8b14-5197db8b0a52)
+](https://raw.githubusercontent.com/your-username/url-shortener/main/result-page.png)
+
 
 ## How to Use
 
