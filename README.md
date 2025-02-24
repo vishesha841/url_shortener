@@ -21,11 +21,11 @@ A simple and elegant URL shortener web application built with HTML, CSS, and Jav
 ## Screenshots
 
 ### Home Page:
-[![Screenshot 2025-02-24 173134](https://github.com/user-attachments/assets/6492e202-d519-4caf-a7cb-97a422460227)
+![Screenshot 2025-02-24 173134](https://github.com/user-attachments/assets/6492e202-d519-4caf-a7cb-97a422460227)
 
 
 ### Result Page:
-[![Screenshot 2025-02-24 173205](https://github.com/user-attachments/assets/b6275cf6-1d8f-4cd1-86a0-a1e326745963)
+![Screenshot 2025-02-24 173205](https://github.com/user-attachments/assets/b6275cf6-1d8f-4cd1-86a0-a1e326745963)
 
 ## How to Use
 
