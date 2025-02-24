@@ -39,3 +39,13 @@ A simple and elegant URL shortener web application built with HTML, CSS, and Jav
 ### Prerequisites
 
 - A modern web browser (e.g., Chrome, Firefox, Edge).
+
+### structured layout
+url shotner 
+│
+├── index.html          # Main HTML file
+├── style.css           # CSS for styling and CSS art
+├── script.js           # JavaScript for factorial logic
+├── README.md           # Project documentation
+└── screenshots/        # Folder for screenshots (optional)
+---
