@@ -40,7 +40,7 @@ A simple and elegant URL shortener web application built with HTML, CSS, and Jav
 
 - A modern web browser (e.g., Chrome, Firefox, Edge).
 
-## structured layout
+## Structured layout
 url shotner 
 │
 ├── index.html          # Main HTML file
